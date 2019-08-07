@@ -1,0 +1,3 @@
+To run the program, you have to open two terminals: one for server, one for client.
+For server: java server <req_code>
+For client: java client  <server_address> <n_port> <req_code> <msg>
